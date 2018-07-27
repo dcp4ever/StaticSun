@@ -1,0 +1,30 @@
+Helios			KEYWORD1
+dElapsedJulianDays 	KEYWORD2
+dDecimalHours 		KEYWORD2
+dEclipticLongitude 	KEYWORD2
+dEclipticObliquity 	KEYWORD2
+dRightAscension 	KEYWORD2
+dDeclination 		KEYWORD2
+dSin_EclipticLongitude	KEYWORD2
+dY1			KEYWORD2
+dX1			KEYWORD2
+dY 			KEYWORD2
+dX 			KEYWORD2
+dMeanLongitude 		KEYWORD2
+dMeanAnomaly 		KEYWORD2
+dOmega 			KEYWORD2
+dGreenwichMeanSiderealTime 	KEYWORD2
+dLongitude		KEYWORD3
+dLocalMeanSiderealTime 	KEYWORD2
+dLatitudeInRadians 	KEYWORD2
+dHourAngle 		KEYWORD2
+dCos_Latitude 		KEYWORD2
+dSin_Latitude 		KEYWORD2
+dCos_HourAngle 		KEYWORD2
+dParallax 		KEYWORD2
+dAzimuth		KEYWORD2
+dZenithAngle		KEYWORD2
+dElevation		KEYWORD2
+
+
+
